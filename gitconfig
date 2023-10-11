@@ -1,0 +1,4 @@
+git config --global user.name "Name"
+    git config --global user.email "e-mail@example.com"
+    git config --global alias.history "log --graph"
+
